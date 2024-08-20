@@ -1,0 +1,8 @@
+
+
+axios will handle the web req. (learn axios for web requests) {status code 200 means im getting data back but its not being handled corectly}
+
+need a reducer to create the web req
+
+return the value to a div in a reddit page App
+
